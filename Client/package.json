@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "socket.io-client": "^2.2.0"
+  }
+}
